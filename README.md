@@ -1,6 +1,5 @@
 # GlamStore
 GlamStore is a modern e-commerce style React web application that showcases premium perfumes, luxurious haircare, and the latest makeup essentials. Built with React JS.
-Check this Out:
 
 
 **Technologies Used:**
